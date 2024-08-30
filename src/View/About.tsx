@@ -1,4 +1,5 @@
 import Person from "../Icons/Person";
+import AboutImage from "../assets/AboutImage.jpeg"
 
 export default function About() {
   return (
@@ -7,7 +8,7 @@ export default function About() {
       <section className="flex flex-col items-center sm:flex-row-reverse sm:justify-between">
         <section className="w-60 border bg-zinc-900 rounded-lg rotate-6 my-4 ">
           <div className="p-2">
-            <img src="public\AboutImage.jpeg" className=" rounded-lg" />
+            <img src={AboutImage} className=" rounded-lg" />
           </div>
         </section>
         <p className="text-justify sm:w-3/4 sm:mr-6 sm:text-left text-gray-400 font-bold">
