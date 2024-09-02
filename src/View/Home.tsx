@@ -6,8 +6,8 @@ export default function Home() {
     <section className="flex flex-col gap-2 mb-20">
       <div className="flex flex-row items-center gap-4">
         <img
-          className="rounded-full"
-          src="https://media.licdn.com/dms/image/v2/C4D03AQGrT1okItii0g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1660270106890?e=1730332800&v=beta&t=_olU09JnvIEUT6G52KBQKUFb3Y4ZK6ggJoSS6pnXE9M"
+          className="rounded-full w-40"
+          src="https://media.licdn.com/dms/image/v2/D4D03AQE4fqTVRoqJWw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725285975310?e=1730937600&v=beta&t=BfBbpJJCvXB_YCnRQcUNcAS8kagFv_I3JR49VLD9LI4"
         />
         <a
           href="https://www.linkedin.com/in/juansemaulini9/"
