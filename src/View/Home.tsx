@@ -7,7 +7,7 @@ export default function Home() {
       <div className="flex flex-row items-center gap-4">
         <img
           className="rounded-full w-40"
-          src="https://media.licdn.com/dms/image/v2/D4D03AQE4fqTVRoqJWw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725285975310?e=1730937600&v=beta&t=BfBbpJJCvXB_YCnRQcUNcAS8kagFv_I3JR49VLD9LI4"
+          src="https://media.licdn.com/dms/image/v2/D4D03AQE4fqTVRoqJWw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725285975310?e=1737590400&v=beta&t=fBWlaD4YbVqshdvS0S8VxAlL015SKb_2S9hMe94Lgvs"
         />
         <a
           href="https://www.linkedin.com/in/juansemaulini9/"
